@@ -10,7 +10,7 @@ Final project for Optimisation course
   - Multistart
   - MBH
 - Programming: Python
-- Result: very close performance to benchmark on [packomania][http://www.packomania.com]
+- Result: very close performance to benchmark on [Packomania](http://www.packomania.com)
 
 ## Circle-packing and Sphere-packing
 

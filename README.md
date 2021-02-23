@@ -3,14 +3,14 @@ Final project for Optimisation course
 
 ## Quick preview
 
-- Authors:Weicheng HE, Aymane OUIJALI, Pierre-Alexandre SIMON
-- Context: For Optimisation course of Master in Big Data & Data Science at Mines Nancy, we did a project in group to solve the optimisation problem by mathematical simulation.
-- Topic: circle-packing and sphere-packing
-- Methods: Global Optimisation algorithms implemented by solver *Pyomo* 
+- _Authors_:Weicheng HE, Aymane OUIJALI, Pierre-Alexandre SIMON
+- _Context_: For Optimisation course of Master in Big Data & Data Science at Mines Nancy, we did a project in group to solve the optimisation problem by mathematical simulation.
+- _Topic_: circle-packing and sphere-packing
+- _Methods_: Global Optimisation algorithms implemented by solver *Pyomo* 
   - Multistart
   - MBH
-- Programming: Python
-- Result: very close performance to benchmark on [Packomania](http://www.packomania.com)
+- _Programming_: Python
+- _Result_: very close performance to benchmark on [Packomania](http://www.packomania.com)
 
 ## Circle-packing and Sphere-packing
 
